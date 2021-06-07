@@ -10,6 +10,7 @@ kinds of syntax are being introduced such as "Schema", "Nested Types",
 - Express.js
 - Node.js
 - [PKG express-graphql](https://github.com/graphql/express-graphql)
+- Graphiql (for testing)
 
 ## Learnings
 1.
