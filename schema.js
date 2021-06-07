@@ -15,5 +15,4 @@ const schema = new GraphQLSchema({
     },
   }),
 });
-
 module.exports = schema;
