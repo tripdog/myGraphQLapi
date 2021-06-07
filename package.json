@@ -1,14 +1,22 @@
 {
-  "name": "mygraphqlapi",
+  "name": "my-graphql-api",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "## Introduction In this project, I am setting up a GraphQL server. Several new  kinds of syntax are being introduced such as \"Schema\", \"Nested Types\", \"GraphQLObjectType\" and many others that relate to the subject.",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tripdog/myGraphQLapi.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tripdog/myGraphQLapi/issues"
+  },
+  "homepage": "https://github.com/tripdog/myGraphQLapi#readme",
   "dependencies": {
     "express": "^4.17.1",
     "express-graphql": "^0.12.0",
