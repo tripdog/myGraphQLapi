@@ -1,4 +1,4 @@
-# Build a GraphQL API with Node.js and Express
+# Build a GraphQL API with Node.js & Express
 ### A bare bones attempt to learn how to create an API
 
 ## Introduction
