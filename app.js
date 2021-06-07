@@ -8,9 +8,7 @@ const app = express();
 
 //Now add the middleware and route it
 
-app.use(
-  "/graphql",
-  graphqlHTTP({
+app.use("/graphql", graphqlHTTP({
     schema: schema,
     graphiql: true,
   })
